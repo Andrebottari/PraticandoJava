@@ -1,31 +1,31 @@
 # Praticando Java
 
-Projeto de estudos em Java focado na prática de lógica de programação e fundamentos da linguagem.
+Repositório dedicado aos meus estudos e práticas de programação em Java.
 
-## Projeto Atual
+O objetivo deste projeto é registrar minha evolução na linguagem, desde os conceitos básicos de lógica de programação até Programação Orientada a Objetos (POO) e tópicos mais avançados.
 
-### Calculadora Java
+## Conteúdos Estudados
 
-Funcionalidades:
+* Lógica de Programação
+* Variáveis e Tipos de Dados
+* Operadores
+* Estruturas Condicionais (if/else, switch)
+* Estruturas de Repetição (while, do-while, for)
+* Tratamento de Exceções
+* Métodos
+* Arrays e Matrizes
+* Programação Orientada a Objetos (POO)
+* Coleções
+* Manipulação de Arquivos
+* Outros tópicos estudados ao longo da jornada
 
-* Soma
-* Subtração
-* Multiplicação
-* Divisão
-* Validação de divisão por zero
-* Tratamento de entradas inválidas utilizando try-catch
-* Menu interativo utilizando do-while
+## Exercícios e Projetos
 
-## Conceitos Praticados
+Este repositório reúne exercícios, desafios e pequenos projetos desenvolvidos durante meus estudos, com foco na prática constante e na evolução gradual das habilidades de programação.
 
-* Variáveis
-* Scanner
-* If / Else
-* Switch Case
-* While
-* Do While
-* Try Catch
-* Operadores Matemáticos
+### Projetos concluídos
+
+* Calculadora em Java (operações básicas, validação de entrada e tratamento de divisão por zero)
 
 ## Tecnologias
 
